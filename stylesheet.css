@@ -15,7 +15,7 @@ html, body {
 }
 
 .background {
-  background-color: #ED638E;
+  background-color: #ff3c7a;
   position: absolute;
   top: 0;
   left: 0;
@@ -49,3 +49,4 @@ html, body {
 .grid-item img {
   display: block;
 }
+
