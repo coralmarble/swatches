@@ -31,7 +31,6 @@ html, body {
   gap: 22px;
   justify-content: center;
   align-content: center;
-  z-index: 1;
 }
 
 .grid-item img {
@@ -39,7 +38,6 @@ html, body {
   height: 72px;
   object-fit: cover;
   border-radius: 4px;
-  z-index: 2;
 }
 
 .grid-item a {
