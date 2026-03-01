@@ -27,8 +27,9 @@ html, body {
 .grid-container {
   display: grid;
   grid-template-columns: repeat(8, 72px);
-  grid-template-rows: repeat(6, 72px);
-  gap: 22px;
+  grid-template-rows: repeat(8, 72px);
+  row-gap: 6px;
+  column-gap: 6px;
   justify-content: center;
   align-content: center;
 }
