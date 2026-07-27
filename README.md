@@ -1,3 +1,4 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/d0f2ef36-a2ac-4804-bf42-353f16a81220" alt=" ">
-</p>
+<div align="center" style="line-height: 1; margin: 0;">
+  <img src="https://github.com/user-attachments/assets/d0f2ef36-a2ac-4804-bf42-353f16a81220" style="border: 1px solid pink;" alt="">
+  <p style="color: Pink;">♡ ♡ ✿ ♡ ♡</p>
+</div>
