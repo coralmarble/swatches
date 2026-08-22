@@ -1,4 +1,4 @@
-<div align="center" style="line-height: 1;">
+<div align="center">
   <img src="https://github.com/user-attachments/assets/3ea035c1-78bb-409e-b4f2-fb5cbf6fc970" alt="♡" img width="500" height="370">
   <p>♡</p>
 </div>
